@@ -9,3 +9,17 @@ C is a procedural programming language developed by Dennis Ritchie. It focuses o
 # C++
 C++ is an extension of C that supports both procedural and object-oriented programming. It introduces concepts like classes, objects, inheritance, and polymorphism, making programs more secure and reusable.
 
+# OOPS (Object Oriented Programming System)
+
+OOPS is a programming approach that organizes code using objects and classes to model real-world entities.
+
+Main principles:
+
+- Encapsulation – binding data and methods together
+
+- Abstraction – hiding implementation details
+
+- Inheritance – reusing properties of another class
+
+- Polymorphism – one interface, multiple behaviors
+
