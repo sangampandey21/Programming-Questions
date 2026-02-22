@@ -6,3 +6,6 @@ I have practiced many such questions in this file and i will also continue uploa
 # C Language
 C is a procedural programming language developed by Dennis Ritchie. It focuses on functions and step-by-step instructions to solve problems. It is fast, efficient, and widely used for system programming and embedded systems.
 
+# C++
+C++ is an extension of C that supports both procedural and object-oriented programming. It introduces concepts like classes, objects, inheritance, and polymorphism, making programs more secure and reusable.
+
