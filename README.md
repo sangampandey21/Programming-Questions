@@ -23,4 +23,4 @@ Main principles:
 
 - Polymorphism – one interface, multiple behaviors
 
-These are 
+These are very important terms in programming while you are coding at basic level to the advanced.
