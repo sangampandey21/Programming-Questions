@@ -23,3 +23,4 @@ Main principles:
 
 - Polymorphism – one interface, multiple behaviors
 
+These are 
