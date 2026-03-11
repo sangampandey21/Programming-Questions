@@ -15,7 +15,7 @@ C++ is an extension of C that supports both procedural and object-oriented progr
 
 OOPS is a programming approach that organizes code using objects and classes to model real-world entities. It focuses on data security and modular program design through four main principles: Encapsulation (binding data and methods together), Abstraction (hiding internal implementation details), Inheritance (reusing properties of existing classes), Polymorphism (same function behaving differently in different situations). OOP improves code reusability, scalability, maintainability, and reduces program complexity in large software development.
 
-Main principles:
+Main principles:-
 
 - Encapsulation – binding data and methods together
 
