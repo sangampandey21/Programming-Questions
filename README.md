@@ -19,7 +19,6 @@ OOPS is a programming approach that organizes code using objects and classes to 
 Main principles:-
 
 - Encapsulation – binding data and methods together
-
 - Abstraction – hiding implementation details
 
 - Inheritance – reusing properties of another class
