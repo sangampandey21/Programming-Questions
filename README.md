@@ -21,7 +21,6 @@ Main principles:-
 - Encapsulation – binding data and methods together
 - Abstraction – hiding implementation details
 - Inheritance – reusing properties of another class
-
 - Polymorphism – one interface, multiple behaviors
 
  These are very important terms in programming while you are coding at basic level to the advanced...
