@@ -20,7 +20,6 @@ Main principles:-
 
 - Encapsulation – binding data and methods together
 - Abstraction – hiding implementation details
-
 - Inheritance – reusing properties of another class
 
 - Polymorphism – one interface, multiple behaviors
